@@ -1,0 +1,115 @@
+{
+  "username": "seminar-pendidikan-profesi-guru",
+  "profile": {
+    "name": "Elva Arini Mardatillah",
+    "role": "Mahasiswi",
+    "program": "PPG Prajabatan 2026",
+    "campus": "Universitas Mahasaraswati Denpasar",
+    "originRegion": "Sumbawa Barat, NTB",
+    "description": "Saya Elva Arini Mardatillah, mahasiswi Pendidikan Profesi Guru (PPG) Prajabatan di Universitas Mahasaraswati Denpasar. Tumbuh besar di Sumbawa Barat, sebuah kabupaten kecil yang kaya akan keindahan alam, mengajarkan saya arti kesederhanaan, kerja keras, dan rasa syukur. Nilai-nilai itulah yang saya bawa dalam perjalanan menjadi seorang pendidik — tulus mendampingi murid belajar, sebagaimana alam kampung halaman saya mendidik saya untuk selalu rendah hati dan penuh rasa ingin tahu.",
+    "tagline": "Calon guru profesional yang menempuh Pendidikan Profesi Guru Prajabatan di Universitas Mahasaraswati Denpasar — membawa semangat dan kehangatan tanah kelahiran, Sumbawa Barat, ke dalam setiap langkah belajar mengajar.",
+    "visiMisi": "Visi: Menjadi guru profesional yang berkarakter, adaptif terhadap perkembangan zaman, serta mampu menghadirkan pembelajaran yang bermakna dan berpihak pada murid, dengan membawa nilai kesederhanaan dan kehangatan tanah kelahiran ke dalam setiap ruang kelas.\n\nMisi: Merancang pembelajaran yang memperhatikan kebutuhan dan keunikan setiap murid, terus belajar dan mengembangkan kompetensi diri sepanjang perjalanan menjadi pendidik, menumbuhkan nilai kejujuran, kerja keras, dan rasa syukur dalam diri murid, serta membangun kolaborasi yang hangat dengan murid, sesama pendidik, dan orang tua demi tumbuh kembang murid yang utuh.",
+    "email": "elvaarininew@gmail.com",
+    "avatarUrl": "/uploads/seminar-pendidikan-profesi-guru/images/3a9b18b4-elva-portfolio-image.webp"
+  },
+  "hometown": [
+    {
+      "id": "1",
+      "label": "Pantai",
+      "title": "Pantai yang Indah",
+      "description": "Garis pantai berpasir lembut dengan air laut jernih kebiruan, tempat favorit menikmati senja di Sumbawa Barat.",
+      "image": "https://images.unsplash.com/photo-1771002382315-9be24abde4e4",
+      "imageAlt": "Pantai tropis dengan air laut biru kehijauan"
+    },
+    {
+      "id": "2",
+      "label": "Bukit",
+      "title": "Dikelilingi Bukit",
+      "description": "Perbukitan hijau membentang di sekeliling kampung, menjadi latar yang menenangkan setiap pagi dan senja.",
+      "image": "https://images.unsplash.com/photo-1673970825861-3469f8fe01d3",
+      "imageAlt": "Perbukitan hijau dilihat dari udara"
+    },
+    {
+      "id": "3",
+      "label": "Air Terjun",
+      "title": "Air Terjun Alami",
+      "description": "Aliran air terjun alami yang jernih dan sejuk, tersembunyi di antara rimbunnya hutan Sumbawa Barat.",
+      "image": "https://images.unsplash.com/photo-1715094313256-31859c8ef92e",
+      "imageAlt": "Air terjun alami di tengah hutan tropis"
+    },
+    {
+      "id": "4",
+      "label": "Batu Alam",
+      "title": "Kekayaan Batu Alam",
+      "description": "Formasi batu alam khas yang menjadi kebanggaan daerah, sekaligus sumber daya yang diolah masyarakat setempat.",
+      "image": "https://images.unsplash.com/photo-1550639264-38c3059c4620",
+      "imageAlt": "Formasi batu alam berukuran besar"
+    }
+  ],
+  "taskCategories": [
+    { "id": "cat-sem1", "name": "Refleksi Pengalaman Belajar Semester 1" },
+    { "id": "cat-sem2", "name": "Refleksi Pengalaman Belajar Semester 2" },
+    { "id": "cat-refleksi-ppg", "name": "Refleksi PPG Secara Keseluruhan" },
+    { "id": "cat-karya-inovasi", "name": "Karya Inovasi Pendidikan" }
+  ],
+  "tasks": [
+    {
+      "id": "mt1k19fs8bmi5v",
+      "title": "Topik 2 - Lembar Kerja 2 - Refleksi Pengalaman Belajar Setiap Mata Kuliah",
+      "course": "Seminar Pendidikan Profesi Guru",
+      "date": "2026-08-20",
+      "categoryId": "cat-sem1",
+      "fileUrl": "/uploads/seminar-pendidikan-profesi-guru/documents/eadce0b4-topik-2-lk-2.pdf",
+      "size": "311 KB"
+    }
+  ],
+  "appearance": {
+    "templateId": "charcoal",
+    "paletteType": "solid",
+    "solidColor": "#52525b",
+    "gradientFrom": "#3f3f46",
+    "gradientTo": "#71717a",
+    "gradientAngle": 135,
+    "backgroundImageUrl": "",
+    "backgroundColor": "#f4f4f5",
+    "backgroundColorDeep": "#e4e4e7",
+    "textColor": "#27272a",
+    "textColorSoft": "#52525b",
+    "borderColor": "#d4d4d8",
+    "surfaceColor": "#ffffff"
+  },
+  "media": [
+    {
+      "id": "1ea71d81-5a49-43f4-b303-6f7ff93bb3ab",
+      "filename": "eadce0b4-topik-2-lk-2.pdf",
+      "originalName": "topik-2-lk-2.pdf",
+      "url": "/uploads/seminar-pendidikan-profesi-guru/documents/eadce0b4-topik-2-lk-2.pdf",
+      "kind": "document",
+      "mimeType": "application/pdf",
+      "size": 318310,
+      "uploadedAt": "2026-08-20T13:26:35.842Z"
+    },
+    {
+      "id": "02da089d-f09d-4ec8-bbbc-950c1263b94a",
+      "filename": "3a9b18b4-elva-portfolio-image.webp",
+      "originalName": "elva-portfolio-image.webp",
+      "url": "/uploads/seminar-pendidikan-profesi-guru/images/3a9b18b4-elva-portfolio-image.webp",
+      "kind": "image",
+      "mimeType": "image/webp",
+      "size": 1546384,
+      "uploadedAt": "2026-08-20T13:24:18.835Z"
+    },
+    {
+      "id": "a82919bc-009d-4e4f-94de-a16535597c09",
+      "filename": "a3d3c868-elva-image-edited.jpg",
+      "originalName": "elva-image-edited.jpg",
+      "url": "/uploads/seminar-pendidikan-profesi-guru/images/a3d3c868-elva-image-edited.jpg",
+      "kind": "image",
+      "mimeType": "image/jpeg",
+      "size": 117814,
+      "uploadedAt": "2026-08-20T13:10:12.485Z"
+    }
+  ],
+  "createdAt": "2026-08-05T09:42:08.918Z",
+  "updatedAt": "2026-08-20T15:29:25.381Z"
+}

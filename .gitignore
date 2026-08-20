@@ -1,0 +1,22 @@
+# dependencies
+/node_modules
+
+# next.js build output
+/.next/
+/out/
+
+# env files (contain secrets)
+.env
+.env.local
+.env.*.local
+
+# CMS content & uploads — these are your live data, back them up separately.
+# Remove these two lines if you *want* to version-control your content.
+/data/*.json
+/public/uploads/**/*
+!/public/uploads/**/.gitkeep
+
+# misc
+.DS_Store
+*.tsbuildinfo
+npm-debug.log*
